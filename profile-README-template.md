@@ -17,9 +17,7 @@
 
 **Your Title · Second Thing · Third Thing**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yoursite.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://YOURSITE.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOURHANDLE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURHANDLE)
-[![Instagram](https://img.shields.io/badge/Instagram-YOURHANDLE-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOURHANDLE)
+[![gmail](https://img.shields.io/badge/gmail-dineshyadav.p03%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dineshyadav.p03@gmail.com)
 
 <br>
 

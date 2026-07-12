@@ -18,7 +18,7 @@
 
 *Building scalable AI products, open-source tools, and real-world systems.*
 
-[![gmail](https://img.shields.io/badge/gmail-dineshyadav.p03%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshyadav.p03@gmail.com)
+[![gmail](https://img.shields.io/badge/gmail-dineshyadav.p03%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dineshyadav.p03@gmail.com)
 
 <br>
 
