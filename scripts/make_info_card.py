@@ -47,7 +47,7 @@ HOST = "dineshyadav03"   # shown as  you@github  in the header
 
 ROWS = [
     ("host",),
-    ("kv", "Email", "dineshyadav.p03@gmail.com"),
+    ("kv", "gmail", "dineshyadav.p03@gmail.com"),
     ("kv", "Focus", "AI, LLMs, Agents, CV, Robotics, AEC"),
     ("kv", "Mission", "Building scalable AI products"),
     ("gap",),
